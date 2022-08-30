@@ -1,0 +1,1 @@
+class Listkisspngitalian1ItemModel {}
